@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Libalpm",
     image: "/love.gif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Offensive Cyber-Security enthusiast",
-    bio: "The Linux geek.",
+    bio: "Security Researcher",
     email: "libalpm@skiff.com",
     linkedin: "N/A",
     github: "libalpm64",

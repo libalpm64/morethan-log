@@ -15,7 +15,7 @@ const CONFIG = {
       name: `Path Parser`,
       href: "https://github.com/libalpm64/Path-Module-Parser",
     },
-      {
+    {
       name: `Server API Linker`,
       href: "https://github.com/libalpm64/Server_API_Linker",
     },

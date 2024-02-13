@@ -1,30 +1,36 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "Libalpm",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    role: "Offensive Cyber-Security enthusiast",
+    bio: "The Linux geek.",
+    email: "libalpm@skiff.com",
+    linkedin: "N/A",
+    github: "libalpm64",
+    instagram: "N/A",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Path Parser`,
+      href: "https://github.com/libalpm64/Path-Module-Parser",
+    },
+      {
+      name: `Server API Linker`,
+      href: "https://github.com/libalpm64/Server_API_Linker",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Libalpm | Latest Cybersec News.",
+    description: "The best site for studying DDoS attacks and how they work.",
+    theme: "dark", // ['light', 'dark', 'auto']
+
   },
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
